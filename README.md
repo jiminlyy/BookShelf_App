@@ -2,6 +2,15 @@
 
 읽은 책을 책장에 쌓듯이 기록하는 iOS 앱.
 
+## 📱 스크린샷
+
+<p align="center">
+  <img src="screenshots/IMG_1857.PNG" width="200"/>
+  <img src="screenshots/IMG_1858.PNG" width="200"/>
+  <img src="screenshots/IMG_1859.PNG" width="200"/>
+  <img src="screenshots/IMG_1860.PNG" width="200"/>
+</p>
+
 ## Xcode 프로젝트 셋업
 
 1. **Xcode 열기 → File ▸ New ▸ Project**
